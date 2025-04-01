@@ -1,0 +1,21 @@
+- links_category: Elites
+  has_thumbnail: true
+  list:
+      - name: EvanNotFound's Blog
+        link: https://ohevan.com
+        description: 用香港记者的速度更新文章
+        avatar: https://evan.beee.top/avatar.png
+        thumbnail: https://ohevan.com/img/wallhaven-3zgz2y_1920x1080.webp # has_thumbnail 为 true 时才需要
+ 
+- links_category: Normal
+  has_thumbnail: false
+  list:
+      - name: Example Site
+        link: https://example.com
+        description: Example Site Description
+        avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      - name: Example Site 2
+        link: https://example.com
+        description: Example Site Description
+        avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ 
